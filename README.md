@@ -1,0 +1,2 @@
+# DigitalTextConversionUsingAzureVisionAPI
+DigitalTextConversionUsingAzureVisionAPI
